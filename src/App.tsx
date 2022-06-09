@@ -8,7 +8,7 @@ export const App = () => (
    <ChakraProvider theme={theme}>
       <Box
          w="full"
-         background="linear-gradient(140.98deg, #000000 27.58%, #120206 50.88%, #801930 74.65%)"
+         background="linear-gradient(140.98deg, #000000 27.58%, #120206 50.88%, #1E90FF 74.65%)"
       >
          <Header />
          <Home />

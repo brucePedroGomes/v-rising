@@ -13,7 +13,7 @@ export function Home() {
                <Text fontSize="6xl">
                   O MELHOR SERVER <br />
                   DE{" "}
-                  <Text as="span" color="red.400">
+                  <Text as="span" color="#1E90FF">
                      V RISING
                   </Text>{" "}
                   DO

@@ -12,7 +12,7 @@ export function Header() {
          <Img src={require("../assets/logo.png")} height="16" />
          <Button
             padding="6"
-            bg="#801A30"
+            bg="#1E90FF"
             fontSize="lg"
             as={Link}
             isExternal
