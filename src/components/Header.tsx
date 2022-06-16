@@ -16,7 +16,7 @@ export function Header() {
             fontSize="lg"
             as={Link}
             isExternal
-            href="https://discord.com/invite/4qRsNkfF?utm_source=Discord%20Widget&utm_medium=Connect"
+            href="https://discord.gg/ZgfSDubn5M"
          >
             JUNTE-SE AO DISCORD
          </Button>
