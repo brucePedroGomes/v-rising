@@ -2,9 +2,9 @@ import { Box, HStack, VStack } from "@chakra-ui/react";
 
 export function Frames() {
    return (
-      <HStack paddingTop="20">
+      <HStack paddingTop="20" align="start">
          <VStack>
-            <Box
+            {/* <Box
                as="iframe"
                title="server"
                src="https://api.trackyserver.com/widget/tracky?id=1960885&color1=000000&color4=FFFFFF"
@@ -13,7 +13,7 @@ export function Frames() {
                frameBorder="0px"
                bg="black"
                borderRadius="20"
-            />
+            /> */}
             <Box
                as="iframe"
                title="server"
